@@ -1,16 +1,35 @@
-### Hi there 👋
+### 0x80000000
+<details>
+<summary>Languages I know</summary>
+<summary>Python</summary>
+<summary>C</summary>
+<summary>C++</summary>
+<summary>Vlang</summary>
+<summary>Golang</summary>
+</details>
 
-<!--
-**0x80000000/0x80000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>Languages I don't often write in</summary>
+<summary>SQL</summary>
+<summary>PHP</summary>
+<summary>Javascript</summary>
+<summary>x86/x86_64 Assembly</summary>
+</details>
 
-Here are some ideas to get you started:
+<details>
+<summary>Interests</summary>
+<summary>IoT</summary>
+<summary>Programming</summary>
+<summary>Webapp Hacking</summary>
+<summary>Malware Analysis</summary>
+<summary>Reverse Engineering</summary>
+<summary>Exploit Development</summary>
+<summary>Malware Development</summary>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Contact</summary>
+<summary>882401817214984222 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
+</details>
+
+~ 0x80000000
