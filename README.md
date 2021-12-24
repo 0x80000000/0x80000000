@@ -13,6 +13,7 @@
 <summary>SQL</summary>
 <summary>PHP</summary>
 <summary>Javascript</summary>
+<summary>Typescript</summary>
 <summary>x86/x86_64 Assembly</summary>
 </details>
 
