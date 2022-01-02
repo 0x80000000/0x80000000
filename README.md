@@ -30,7 +30,7 @@
 
 <details>
 <summary>Contact</summary>
-<summary>882401817214984222 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
+<summary>924851732201214022 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
 </details>
 
 ~ 0x80000000
