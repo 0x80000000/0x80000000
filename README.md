@@ -10,7 +10,6 @@
 
 <details>
 <summary>Languages I don't often write in</summary>
-<summary>SQL</summary>
 <summary>PHP</summary>
 <summary>Javascript</summary>
 <summary>Typescript</summary>
@@ -26,6 +25,7 @@
 <summary>Reverse Engineering</summary>
 <summary>Exploit Development</summary>
 <summary>Malware Development</summary>
+<summary>Driver Development (Windows & Linux)</summary>
 </details>
 
 <details>
