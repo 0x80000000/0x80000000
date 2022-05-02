@@ -17,18 +17,6 @@
 </details>
 
 <details>
-<summary>Interests</summary>
-<summary>IoT</summary>
-<summary>Programming</summary>
-<summary>Webapp Hacking</summary>
-<summary>Malware Analysis</summary>
-<summary>Reverse Engineering</summary>
-<summary>Exploit Development</summary>
-<summary>Malware Development</summary>
-<summary>Driver Development (Windows & Linux)</summary>
-</details>
-
-<details>
 <summary>Contact</summary>
 <summary>882401817214984222 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
 </details>
