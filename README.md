@@ -18,7 +18,7 @@
 
 <details>
 <summary>Contact</summary>
-<summary>882401817214984222 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
+<summary>732592657628528701 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
 </details>
 
 ~ 0x80000000
